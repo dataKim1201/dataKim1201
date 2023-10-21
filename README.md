@@ -1,7 +1,6 @@
 👋 Hi, my name is Hanseong Kim.    
 🌐 I am mainly conducting research on QuestionAnswering(QA) methods derived from Natural Language Processing(NLP).  
 💼 And Currently, I am an undergraduate research student at HUMANE lab.  
-
 💬 If you have any questions about project or collaboration, please contact me through SNS.   
 
 
